@@ -1,0 +1,629 @@
+@media (min-width: 279px) and (max-width:319px)
+
+{
+
+.header .navbar-expand-lg .navbar-nav .nav-link {
+		margin: 0px 0px 0px 0px;
+	}
+.header .navbar-nav .nav-link.active {
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link:hover {
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+.header .navbar-expand-lg .navbar-nav .nav-link:focus {
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+
+.banner{
+	padding: 10px 0px;
+}
+.inner-banner h1 {
+	font-size: 25px;
+	line-height: 1.2em;
+}
+.inner-banner h4{
+	font-size: 11px;
+	line-height: 1.2em;
+}
+.inner-banner p {
+	width: 100%;
+	font-size: 13px;
+	line-height: 1.7em;
+}
+
+.inner-btn .btn-primary{
+padding: 10px 12px;
+font-size: 9px;
+
+}
+.inner-btn .btn-info {
+padding: 10px 12px;
+font-size: 9px;
+margin: 0px 0px 0px 5px;
+}
+.inner-btn {
+	width: 100%;
+	padding: 15px 0px 0px;
+}
+.body {
+	overflow-x: hidden;
+}
+.title h1 { font-size: 25px;
+	line-height: 1.2em;
+margin: 8px 0px}
+
+.title h4 {font-size: 11px;
+	line-height: 1.2em;
+}
+
+.features {
+    width: 100%;
+    padding: 35px 0px 20px;
+}
+.inner-feature {
+    width: 100%;
+    text-align: center;
+    padding: 10px 25px;
+}
+
+.features .title {
+    text-align: center;
+    padding: 0px 0px 20px;
+}
+.inner-feature p {
+    font-size: 13px;
+    line-height: 1.7em;}
+
+.about-long {
+    width: 100%;
+    padding: 30px 0px 20px;
+}
+.about-long .title {
+    padding: 27px 0px 20px;
+}
+.about-long .title h1 {
+   font-size: 23px;
+	line-height: 1.2em;
+}
+.about-long p {
+    width: 100%;
+    font-size: 14px;
+    line-height: 1.7em;}
+    .about-long ul {
+	padding: 0px;
+	margin: 25px 0px 0px;
+}
+.about-short {
+    width: 100%;
+    padding: 45px 0px 20px;}
+
+    .about-short .title {
+    padding: 0px 0px 20px;
+}
+.about-short .title h1{
+font-size: 24px;
+	line-height: 1.2em;
+}
+.about-short .title p{
+	width: 100%;
+font-size: 13px;
+	line-height: 1.7em;
+}
+.about-short p {
+	font-size: 14px;
+	line-height: 1.7em;}
+
+.testimonials {
+ width: 100%;
+    padding: 50px 0px 34px;
+}
+.testimonials .title{
+	width: 100%;
+	padding: 0px 0px 30px;
+}
+.testimonials .title h1{
+	font-size: 33px;
+}
+.testimonials .owl-carousel .item img {
+	width: 40px;
+    height: 40px;
+    border-radius: 100%;
+}
+.testimonials .owl-carousel .item h4 {
+font-size: 16px;
+line-height: 1.6em;}
+
+.testimonials .owl-carousel .item h5 {
+	font-size: 14px;
+line-height: 1.2em;
+	margin: 2px 0px 0px;
+}
+.testimonials .owl-theme .owl-nav.disabled+.owl-dots {
+	margin: 25px 0px 0px;
+}
+
+.testimonials .owl-carousel .item p {
+font-size: 13px;
+line-height: 1.7em;
+}
+.eyecatcher{
+	width: 100%;
+	padding: 25px 0px;}
+.eyecatcher h1 {
+    font-size: 25px;
+    line-height: 1.2em;
+    margin: 0px 0px 15px;
+}
+
+.eyecatcher .inner-btn{
+	text-align: center;
+}
+.eyecatcher .inner-btn .btn-info {
+    margin: 0px 5px 0px 0px;
+}
+.price-plan {
+    width: 100%;
+    padding: 45px 0px 15px;
+}
+.price-plan .title {
+	width: 100%;
+    padding: 0px 0px 30px;
+}
+.inner-price {
+	margin: 0px 0px 20px;}
+	.inner-price .price-content p{
+font-size: 14px;
+line-height: 1.7em}
+
+	.contact-us {
+    width: 100%;
+    padding: 40px 0px 0px;}
+
+    .contact-us .title{
+    	padding: 0px 0px 30px;
+    }
+    .contact-us .title h1{
+    	font-size: 33px;
+    }
+    .contact-us .info p {
+    	margin: 0px 0px 35px ;
+    }
+    .main-form{
+    	padding:20px 10px;
+    	font-size: 12px;
+    	margin: 10px 0px -70px;
+    }
+    .main-form .btn-primary {
+    	padding: 10px 12px;
+font-size: 9px;
+    }
+    .footer{
+    	width: 100%;
+    	padding: 10px 0px;
+    }
+    .social-icons li a i {
+	font-size: 12px;}
+    .footer-text{font-size: 13px;
+    	line-height: 1.7em;
+    	margin: 1px 0px 0px;
+    }
+.footer-text a {
+	
+	font-size: 13px;}
+}
+
+
+
+
+
+@media (min-width: 320px) and (max-width:480px)
+{
+	.header .navbar-expand-lg .navbar-nav .nav-link {
+		margin: 0px 0px 0px 0px;
+	}
+.header .navbar-nav .nav-link.active {
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link:hover {
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+.header .navbar-expand-lg .navbar-nav .nav-link:focus {
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+/*banner start*/
+.banner{
+	padding: 20px 0px;
+}
+.inner-banner h1 {
+	font-size: 32px;
+	line-height: 1.2em;
+}
+.inner-banner h4{
+	font-size: 13px;
+	line-height: 1.2em;
+}
+.inner-banner p {
+	width: 100%;
+	font-size: 14px;
+	line-height: 1.7em;
+}
+
+.inner-btn .btn-primary{
+padding: 10px 16px;
+font-size: 12px;
+
+}
+.inner-btn .btn-info {
+
+	padding: 10px 16px;
+font-size: 12px;
+margin: 0px 0px 0px 7px;
+}
+.inner-btn {
+	width: 100%;
+	padding: 15px 0px 0px;
+}
+/*banner finish*/
+
+/*feature start*/
+.title h1 { font-size: 29px;
+	line-height: 1.2em;
+margin: 8px 0px}
+
+.title h4 {font-size: 13px;
+	line-height: 1.2em;
+}
+
+.features {
+    width: 100%;
+    padding: 35px 0px 20px;
+}
+.inner-feature {
+    width: 100%;
+    text-align: center;
+    padding: 10px 25px;
+}
+.features .title {
+    text-align: center;
+    padding: 0px 0px 20px;
+}
+.inner-feature p {
+    font-size: 14px;
+    line-height: 1.7em;
+
+}
+/*feature end*/
+
+/*about long start*/
+.about-long {
+    width: 100%;
+    padding: 30px 0px 20px;
+}
+.about-long .title {
+    padding: 27px 0px 20px;
+}
+.about-long .title h1 {
+   font-size: 27px;
+	line-height: 1.2em;
+}
+.about-long p {
+    width: 100%;
+    font-size: 14px;
+    line-height: 1.7em;}
+    .about-long ul {
+	padding: 0px;
+	margin: 25px 0px 0px;
+}
+/*about long finish*/
+
+.about-short {
+    width: 100%;
+    padding: 45px 0px 20px;}
+
+    .about-short .title {
+    padding: 0px 0px 20px;
+}
+.about-short .title h1{
+font-size: 28px;
+	line-height: 1.2em;
+}
+.about-short .title p{
+	width: 100%;
+font-size: 14px;
+	line-height: 1.7em;
+}
+/*about long finish*/
+
+
+/*testimonial start*/
+.testimonials {
+ width: 100%;
+    padding: 60px 0px 45px;
+}
+.testimonials .title{
+	width: 100%;
+	padding: 0px 0px 30px;
+}
+.testimonials .owl-carousel .item img {
+	width: 60px;
+    height: 60px;
+    border-radius: 100%;
+}
+.testimonials .owl-carousel .item h5 {
+	margin: 13px 0px 0px;
+}
+.testimonials .owl-theme .owl-nav.disabled+.owl-dots {
+	margin: 45px 0px 0px;
+}
+/*testimonial finish*/
+
+.eyecatcher h1 {
+    font-size: 30px;
+    line-height: 1.2em;
+    margin: 0px 0px 15px;
+}
+
+.eyecatcher .inner-btn{
+	text-align: center;
+}
+.eyecatcher .inner-btn .btn-info {
+    margin: 0px 5px 0px 0px;
+}
+
+/*eyecatcher finish*/
+
+
+/*price plan start*/
+.price-plan {
+    width: 100%;
+    padding: 45px 0px 15px;
+}
+.price-plan .title {
+	width: 100%;
+    padding: 0px 0px 30px;
+}
+.inner-price {
+	margin: 0px 0px 30px;
+}
+/*price plan finish*/
+
+
+.contact-us {
+    width: 100%;
+    padding: 40px 0px 0px;}
+
+    .contact-us .title{
+    	padding: 0px 0px 30px;
+    }
+    .contact-us .info p {
+    	margin: 0px 0px 45px ;
+    }
+    .main-form{
+    	padding:20px 14px;
+    	font-size: 12px;
+    	margin: 10px 0px -70px;
+    }
+    .main-form .btn-primary {
+    	padding: 13px 30px;
+font-size: 12px;
+    }
+/*contact us finish*/
+
+    .footer{
+    	width: 100%;
+    	padding: 20px 0px;
+    }
+    .footer-text{
+    	font-size: 14px;
+    	margin: 3px 0px 0px;
+    }
+}
+/*media 480px finish*/
+
+
+@media (min-width: 481px) and (max-width:767px)
+{
+	
+
+.header .navbar-expand-lg .navbar-nav .nav-link {
+		margin: 0px 0px 0px 0px;
+	}
+.header .navbar-nav .nav-link.active {
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link:hover {
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+.header .navbar-expand-lg .navbar-nav .nav-link:focus {
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+
+.banner{
+	padding: 40px 0px 45px;
+}
+.inner-banner h1 {
+	font-size: 38px;
+	line-height: 1.2em;
+}
+.inner-banner h4{
+	font-size: 15px;
+	line-height: 1.2em;
+}
+.inner-banner p {
+	width: 100%;
+	font-size: 16px;
+	line-height: 1.7em;
+}
+
+.inner-btn .btn-primary{
+padding: 12px 18px;
+font-size: 14px;
+
+}
+.inner-btn .btn-info {
+
+	padding: 12px 18px;
+font-size: 14px;
+margin: 0px 0px 0px 10px;
+}
+.inner-btn {
+	width: 100%;
+	padding: 25px 0px 0px;}
+	.title h1 { font-size: 44px;
+	line-height: 1.2em;}
+
+.about-long {
+    width: 100%;
+    padding: 80px 0px 40px;
+}
+
+.about-short {
+    width: 100%;
+    padding: 35px 0px 30px;}
+
+.about-short .title {
+    padding: 30px 0px 30px;
+}
+.testimonials {
+ width: 100%;
+    padding: 60px 0px 41px;
+}
+.eyecatcher h1 {
+    font-size: 32px;
+    line-height: 1.2em;
+    margin: 0px 0px 15px;
+}
+.eyecatcher .inner-btn{
+	text-align: center;
+}
+.eyecatcher .inner-btn .btn-info {
+    margin: 0px 10px 0px 0px;
+}
+.inner-price {
+	margin: 0px 0px 30px;
+}
+.price-plan {
+    width: 100%;
+    padding: 80px 0px 45px;
+}
+.price-plan .title h1 {
+    font-size: 42px;
+}
+.price-plan .title h4{
+	font-size: 16px;
+}
+.contact-us {
+    width: 100%;
+    padding: 80px 0px 25px;}
+    .contact-us .title h4{
+    	font-size:16px ;
+    }
+
+.contact-us .info p {
+    	margin: 0px 0px 45px ;
+    }
+    .main-form{
+    	padding: 40px 25px;
+    	margin: 30px 0px -70px;
+    }
+     .main-form .btn-primary {
+    	padding: 18px 32px;
+font-size: 14px;
+    }
+.footer-text{
+    	margin: 10px 0px 0px;
+    }
+}
+
+
+
+
+@media (min-width: 768px) and (max-width:1024px)
+{
+
+.header .navbar-expand-lg .navbar-nav .nav-link {
+		margin: 0px 0px 0px 0px;
+	}
+.header .navbar-nav .nav-link.active {
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link:hover {
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+.header .navbar-expand-lg .navbar-nav .nav-link:focus {
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+
+.banner{
+	padding: 60px 0px 55px;
+}
+.inner-banner h1 {
+	font-size: 50px;
+	line-height: 1.2em;
+}
+.inner-banner h4{
+	font-size: 22px;
+	line-height: 1.2em;
+}
+.inner-banner p {
+	width: 80%;
+	font-size: 17px;
+	line-height: 1.7em;
+}
+.about-short {
+    width: 100%;
+    padding: 30px 0px 40px;}
+
+.about-short .title {
+    padding: 40x 0px 30px;
+}
+.eyecatcher h1 {
+    font-size: 37px;
+    line-height: 1.2em;
+    margin: 0px 0px 23px;
+}
+.eyecatcher .inner-btn{
+	text-align: center;
+}
+.eyecatcher .inner-btn .btn-info {
+    margin: 0px 10px 0px 0px;
+}
+.price-plan {
+    width: 100%;
+    padding: 80px 0px 55px;
+}
+.inner-price {
+	margin: 0px 0px 35px;
+}
+.contact-us .title{
+    	padding: 0px 0px 60px;
+    }
+	.contact-us .info p {
+    	margin: 0px 0px 45px ;
+    }
+.main-form{
+    	margin: 40px 0px -70px;
+    }
+.main-form .btn-primary{
+	padding: 15px 30px;}
+	.footer-text{
+		margin: 12px 0px 0px;
+	}
+}
